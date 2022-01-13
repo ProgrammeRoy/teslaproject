@@ -105,6 +105,11 @@ body {
     padding: 0.8rem 1.2rem;
 }
 
+.nav-format:hover {
+    background-color: #4e545834;
+    border-radius: 1rem;
+}
+
 .menu {
     background-color: #4e545834;
     border-radius: 1rem;
